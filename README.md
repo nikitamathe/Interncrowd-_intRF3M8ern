@@ -11,7 +11,7 @@ TASK 2 : ATM INTERFACE :
 details successfully, then ATM functionalities are unlocked.  
 ▪️ Features : Transactions History, Withdraw, Deposit, Transfer, Quit.
 
-TASK 3 : ONLINE EXAM :-  
+TASK 3 : ONLINE EXAM : 
 ▪️ The project should be capable of the following functionalities.  
 ▪️ Login  
 ▪️ Update Profile and Password  
